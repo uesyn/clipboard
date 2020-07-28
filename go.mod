@@ -1,3 +1,3 @@
-module github.com/atotto/clipboard
+module github.com/uesyn/clipboard
 
 go 1.14
